@@ -8,6 +8,6 @@ Student project/exercise 🏫
 
 C++ program to make mosaic of an image using bank of another images 
 
-![Preview](https://ibb.co/VHJPN3B)
+![Preview](https://i.ibb.co/KNb3Gmy/Capture-d-e-cran-2024-01-23-a-22-45-13.png)
 
 
